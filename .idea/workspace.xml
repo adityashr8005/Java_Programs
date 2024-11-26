@@ -4,46 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7c40e5a-e7f7-4d80-bc9f-1b52e9944e90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RBU_Sudhansu Sir.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/AddElementOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Getter_Setter/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Getter_Setter/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/CallByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/ClassOutsideClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/InstanceVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/OOPS1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/OOPs2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/StudentManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/SumOfFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs2/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs2/TestPassingObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs3/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs3/Overriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs3/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs3/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs3/test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Searching/Arrange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Searching/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Searching/Merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Searching/Shifting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testing/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testing/Factors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testing/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testing/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testing/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testing/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testing/Table.java" afterDir="false" />
+    <list default="true" id="d7c40e5a-e7f7-4d80-bc9f-1b52e9944e90" name="Changes" comment="Java programs commited">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "adityashr8005"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/adityashr8005/Java_Programs.git",
+    "accountId": "0e863c6c-e3a9-4f1d-beb7-00746d8b1d2c"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -71,53 +45,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AddElementOfArray.executor": "Run",
-    "Application.Addition.executor": "Run",
-    "Application.Arrange.executor": "Run",
-    "Application.Array.executor": "Run",
-    "Application.CallByValue.executor": "Run",
-    "Application.ClassOutsideClass.executor": "Run",
-    "Application.Compare.executor": "Run",
-    "Application.Constructor.executor": "Run",
-    "Application.CopyConstructor.executor": "Run",
-    "Application.Factorial.executor": "Run",
-    "Application.Factors.executor": "Run",
-    "Application.Find.executor": "Run",
-    "Application.Inheritance.executor": "Run",
-    "Application.InstanceVariable.executor": "Run",
-    "Application.LeapYear.executor": "Run",
-    "Application.LinearSearch.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Max.executor": "Run",
-    "Application.Merge.executor": "Run",
-    "Application.OOPS1.executor": "Run",
-    "Application.OOPs2.executor": "Run",
-    "Application.OnlinePayment.executor": "Run",
-    "Application.Overriding.executor": "Run",
-    "Application.Palindrome.executor": "Run",
-    "Application.PrimeNumber.executor": "Run",
-    "Application.ReverseNumber.executor": "Run",
-    "Application.Search.executor": "Run",
-    "Application.Shifting.executor": "Run",
-    "Application.StudentManagement.executor": "Run",
-    "Application.SumOfFactorial.executor": "Run",
-    "Application.Table.executor": "Run",
-    "Application.Test1.executor": "Run",
-    "Application.TestPassingObject.executor": "Run",
-    "Application.main.executor": "Run",
-    "Application.test1.executor": "Run",
-    "Application.test2.executor": "Run",
-    "Application.test3.executor": "Run",
-    "Application.test4.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "D:/javaJIT/A java Intellij/IdeaProjects/RBU_Sudhansu Sir/src/Main.java",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AddElementOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Addition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CallByValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassOutsideClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Compare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CopyConstructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Find.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InstanceVariable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Max.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Merge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OOPS1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OOPs2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OnlinePayment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Overriding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shifting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentManagement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfFactorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Table.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestPassingObject.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test4.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/javaJIT/A java Intellij/IdeaProjects/RBU_Sudhansu Sir/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.main">
     <configuration name="Inheritance" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOPs3.Inheritance" />
@@ -224,6 +198,27 @@
       <option name="presentableId" value="Default" />
       <updated>1730900050961</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java programs commited">
+      <option name="closed" value="true" />
+      <created>1732618994522</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732618994522</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Java programs commited">
+      <option name="closed" value="true" />
+      <created>1732619439126</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732619439126</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java programs commited" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java programs commited" />
   </component>
 </project>
