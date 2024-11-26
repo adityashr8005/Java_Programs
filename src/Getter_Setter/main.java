@@ -10,9 +10,9 @@ public class main {
 
 
         for (int i=0;i<3;i++){
-            System.out.println("Enter the id:");
+            System.out.print("Enter the id:");
             int roll=sc.nextInt();
-            System.out.println("Enter the name:");
+            System.out.print("\nEnter the name:");
             String naam= sc.next();
             Student obj = new Student();
             obj.setId(roll);
