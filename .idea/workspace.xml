@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7c40e5a-e7f7-4d80-bc9f-1b52e9944e90" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBU_Sudhansu Sir.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/AddElementOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Getter_Setter/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Getter_Setter/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/CallByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/ClassOutsideClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/InstanceVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/OOPS1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/OOPs2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/StudentManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/SumOfFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs2/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs2/TestPassingObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs3/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs3/Overriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs3/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs3/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs3/test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/Arrange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/Shifting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testing/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testing/Factors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testing/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testing/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testing/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testing/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Testing/Table.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2oTibrVx2IHjaqVt91N1ngeI9OY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddElementOfArray.executor": "Run",
+    "Application.Addition.executor": "Run",
+    "Application.Arrange.executor": "Run",
+    "Application.Array.executor": "Run",
+    "Application.CallByValue.executor": "Run",
+    "Application.ClassOutsideClass.executor": "Run",
+    "Application.Compare.executor": "Run",
+    "Application.Constructor.executor": "Run",
+    "Application.CopyConstructor.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.Factors.executor": "Run",
+    "Application.Find.executor": "Run",
+    "Application.Inheritance.executor": "Run",
+    "Application.InstanceVariable.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Max.executor": "Run",
+    "Application.Merge.executor": "Run",
+    "Application.OOPS1.executor": "Run",
+    "Application.OOPs2.executor": "Run",
+    "Application.OnlinePayment.executor": "Run",
+    "Application.Overriding.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.ReverseNumber.executor": "Run",
+    "Application.Search.executor": "Run",
+    "Application.Shifting.executor": "Run",
+    "Application.StudentManagement.executor": "Run",
+    "Application.SumOfFactorial.executor": "Run",
+    "Application.Table.executor": "Run",
+    "Application.Test1.executor": "Run",
+    "Application.TestPassingObject.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.test1.executor": "Run",
+    "Application.test2.executor": "Run",
+    "Application.test3.executor": "Run",
+    "Application.test4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/javaJIT/A java Intellij/IdeaProjects/RBU_Sudhansu Sir/src/Main.java",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="Inheritance" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs3.Inheritance" />
+      <module name="RBU_Sudhansu Sir" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPs3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstanceVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.InstanceVariable" />
+      <module name="RBU_Sudhansu Sir" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Searching.Merge" />
+      <module name="RBU_Sudhansu Sir" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Searching.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shifting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Searching.Shifting" />
+      <module name="RBU_Sudhansu Sir" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Searching.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPassingObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs2.TestPassingObject" />
+      <module name="RBU_Sudhansu Sir" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPs2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Getter_Setter.main" />
+      <module name="RBU_Sudhansu Sir" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Getter_Setter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Inheritance" />
+      <item itemvalue="Application.main" />
+      <item itemvalue="Application.InstanceVariable" />
+      <item itemvalue="Application.Merge" />
+      <item itemvalue="Application.Shifting" />
+      <item itemvalue="Application.TestPassingObject" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Shifting" />
+        <item itemvalue="Application.InstanceVariable" />
+        <item itemvalue="Application.Merge" />
+        <item itemvalue="Application.TestPassingObject" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7c40e5a-e7f7-4d80-bc9f-1b52e9944e90" name="Changes" comment="" />
+      <created>1730900050961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730900050961</updated>
+    </task>
+    <servers />
+  </component>
+</project>
