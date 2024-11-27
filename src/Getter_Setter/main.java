@@ -7,12 +7,10 @@ public class main {
         Scanner sc = new Scanner(System.in);
         Student arr[]=new Student[3];
 
-
-
         for (int i=0;i<3;i++){
             System.out.print("Enter the id:");
             int roll=sc.nextInt();
-            System.out.print("\nEnter the name:");
+            System.out.print("Enter the name:");
             String naam= sc.next();
             Student obj = new Student();
             obj.setId(roll);

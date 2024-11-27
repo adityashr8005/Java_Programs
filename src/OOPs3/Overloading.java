@@ -1,6 +1,6 @@
 package OOPs3;
 
-public class Overriding {
+public class Overloading {
 
     void fun(){
         System.out.println("hlo");
@@ -10,7 +10,7 @@ public class Overriding {
     }
     public static void main(String[] args) {
 
-        Overriding obj = new Overriding();
+        Overloading obj = new Overloading();
         obj.fun();
         obj.fun(10);
     }
