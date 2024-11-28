@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7c40e5a-e7f7-4d80-bc9f-1b52e9944e90" name="Changes" comment="new package created">
-      <change beforePath="$PROJECT_DIR$/src/Getter_Setter/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Getter_Setter/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPs3/Overriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOPs3/Overloading.java" afterDir="false" />
+    <list default="true" id="d7c40e5a-e7f7-4d80-bc9f-1b52e9944e90" name="Changes" comment="abstract and interface learned">
+      <change afterPath="$PROJECT_DIR$/src/ConstructorChaning/Chaning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConstructorChaning/Final.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DualLoop/Loop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DualLoop/Loop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DualLoop/Loop3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +52,13 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Abstract.executor&quot;: &quot;Run&quot;,
     &quot;Application.AddElementOfArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.Addition.executor&quot;: &quot;Run&quot;,
     &quot;Application.Arrange.executor&quot;: &quot;Run&quot;,
     &quot;Application.Array.executor&quot;: &quot;Run&quot;,
     &quot;Application.CallByValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Chaning.executor&quot;: &quot;Run&quot;,
     &quot;Application.ClassOutsideClass.executor&quot;: &quot;Run&quot;,
     &quot;Application.Compare.executor&quot;: &quot;Run&quot;,
     &quot;Application.Constructor.executor&quot;: &quot;Run&quot;,
@@ -62,8 +68,12 @@
     &quot;Application.Find.executor&quot;: &quot;Run&quot;,
     &quot;Application.Inheritance.executor&quot;: &quot;Run&quot;,
     &quot;Application.InstanceVariable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interface.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
     &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loop0.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loop1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loop2.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Max.executor&quot;: &quot;Run&quot;,
     &quot;Application.Merge.executor&quot;: &quot;Run&quot;,
@@ -72,6 +82,7 @@
     &quot;Application.OnlinePayment.executor&quot;: &quot;Run&quot;,
     &quot;Application.Overriding.executor&quot;: &quot;Run&quot;,
     &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Polymorphism.executor&quot;: &quot;Run&quot;,
     &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReverseNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.Search.executor&quot;: &quot;Run&quot;,
@@ -93,7 +104,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.main">
+  <component name="RunManager" selected="Application.Chaning">
+    <configuration name="Chaning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConstructorChaning.Chaning" />
+      <module name="RBU_Sudhansu Sir" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConstructorChaning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Inheritance" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOPs3.Inheritance" />
       <module name="RBU_Sudhansu Sir" />
@@ -107,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPS.InstanceVariable" />
+    <configuration name="Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPs4.Interface" />
       <module name="RBU_Sudhansu Sir" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPS.*" />
+          <option name="PATTERN" value="OOPs4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Searching.Merge" />
+    <configuration name="Loop0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DualLoop.Loop0" />
       <module name="RBU_Sudhansu Sir" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Searching.*" />
+          <option name="PATTERN" value="DualLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shifting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Searching.Shifting" />
+    <configuration name="Loop1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DualLoop.Loop1" />
       <module name="RBU_Sudhansu Sir" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Searching.*" />
+          <option name="PATTERN" value="DualLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,25 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPassingObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPs2.TestPassingObject" />
+    <configuration name="Loop2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DualLoop.Loop2" />
       <module name="RBU_Sudhansu Sir" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OOPs2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Getter_Setter.main" />
-      <module name="RBU_Sudhansu Sir" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Getter_Setter.*" />
+          <option name="PATTERN" value="DualLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,19 +185,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Inheritance" />
-      <item itemvalue="Application.main" />
-      <item itemvalue="Application.InstanceVariable" />
-      <item itemvalue="Application.Merge" />
-      <item itemvalue="Application.Shifting" />
-      <item itemvalue="Application.TestPassingObject" />
+      <item itemvalue="Application.Chaning" />
+      <item itemvalue="Application.Interface" />
+      <item itemvalue="Application.Loop0" />
+      <item itemvalue="Application.Loop1" />
+      <item itemvalue="Application.Loop2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.Shifting" />
-        <item itemvalue="Application.InstanceVariable" />
-        <item itemvalue="Application.Merge" />
-        <item itemvalue="Application.TestPassingObject" />
+        <item itemvalue="Application.Chaning" />
+        <item itemvalue="Application.Loop2" />
+        <item itemvalue="Application.Loop1" />
+        <item itemvalue="Application.Loop0" />
+        <item itemvalue="Application.Interface" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +250,39 @@
       <option name="project" value="LOCAL" />
       <updated>1732682722986</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="pushed">
+      <option name="closed" value="true" />
+      <created>1732683201896</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732683201896</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Overriding cleared">
+      <option name="closed" value="true" />
+      <created>1732684229130</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732684229130</updated>
+    </task>
+    <task id="LOCAL-00008" summary="dual loop done">
+      <option name="closed" value="true" />
+      <created>1732702230897</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732702230897</updated>
+    </task>
+    <task id="LOCAL-00009" summary="abstract and interface learned">
+      <option name="closed" value="true" />
+      <created>1732702263852</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732702263852</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -247,6 +290,10 @@
     <MESSAGE value="Input line changes" />
     <MESSAGE value="workspace.xml commited" />
     <MESSAGE value="new package created" />
-    <option name="LAST_COMMIT_MESSAGE" value="new package created" />
+    <MESSAGE value="pushed" />
+    <MESSAGE value="Overriding cleared" />
+    <MESSAGE value="dual loop done" />
+    <MESSAGE value="abstract and interface learned" />
+    <option name="LAST_COMMIT_MESSAGE" value="abstract and interface learned" />
   </component>
 </project>
