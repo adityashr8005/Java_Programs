@@ -1,7 +1,8 @@
 package ConstructorChaning;
 
 //a.final variable:constant
-//b.final function
+//b.final function:can't overridden
+//c.final class:can't inherited.
 
 final class abc{ //now it can't be inherited.
     final void fun(){ //this function can't be overridden.
