@@ -6,7 +6,7 @@ class xyz{
     }
 }
 
-class abc extends xyz { // abc inherit properties of xyz
+class abc { // abc inherit properties of xyz
     void fun(){
         System.out.println("abc called.");
     }
