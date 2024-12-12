@@ -17,7 +17,7 @@ public class String3 {
             }
         }
         if (count==str1.length()){
-            System.out.println("String is .....");
+            System.out.println("String is anagram");
         }else {
             System.out.println("String is not....");
         }
